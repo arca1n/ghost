@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/nodejs
+FROM arca1n/nodejs
 
 # Install Ghost
 RUN \
